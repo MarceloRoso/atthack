@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mtestmapa</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Registro</string>
+    <string name="title_activity_main22">Instrucciones de uso:</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="hint_name">nombre:</string>
+    <string name="correo">Correo:</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="edad">Edad:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="contraseña2">Contraseña:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="title_activity_maps">Hola mundo</string>
+</resources>
